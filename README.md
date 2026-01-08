@@ -142,3 +142,25 @@ Este projeto demonstra:
 ## Principal Insight
 Este projeto evidencia uma abordagem de **Data Analytics orientada a negócio**, onde os dados são utilizados não apenas para análise, mas como base para 
 **decisões estratégicas de marketing e crescimento sustentável**.
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/016b83c8-0a90-4c38-bbc3-a188399cf35f" />
+
+## Conclusão e Recomendação Estratégica de Investimento em Marketing
+Após analisar profundamente as métricas de CLV (Customer Lifetime Value), CAC (Customer Acquisition Cost) e ROI (Return on Investment) das diferentes origens de tráfego, fica claro que a Y.Afisha possui um canal de aquisição altamente lucrativo, mas ainda longe de operar no seu potencial máximo devido à distribuição ineficiente do orçamento de marketing. Em outras palavras: os melhores canais têm espaço para escalar e continuar entregando movimento financeiro saudável, enquanto os mais caros drenam orçamento e precisam ser reavaliados.
+
+A partir dos resultados, proponho uma estratégia direta e sustentável. Minhas recomendações são redirecionar parte do investimento para os canais mais eficientes e escalar aquilo que já demonstra, de forma consistente, maior retorno por dinheiro investido.
+
+Minha conclusão final é direta e apoiada pelos dados. É hora de escalar o que funciona e repensar o que drena recursos.
+
+As origens mais eficientes, equivalentes ao que, no mercado, vemos em canais como Google Search Ads com intenção alta, campanhas de retargeting no Meta, influenciadores de nicho, SEO e conteúdo orgânico, e-mail marketing automatizado e marketplaces como Sympla ou Ingressos.com, seguem uma lógica semelhante: baixo custo de aquisição, retorno rápido e alta previsibilidade. São canais que convertem porque o usuário já chega mais quente, mais preparado para a compra e com menor dispersão de atenção. Esses são exatamente os comportamentos observados nas origens 4, 5, 9 e 10 deste projeto analítico. Por isso, faz sentido direcionar mais verba para esse grupo: eles entregam escala com controle e sustentam um crescimento saudável.
+
+Por outro lado, as origens 1, 2 e 3 lembram os canais que, na prática, costumam elevar o CAC sem garantir retorno proporcional: display genérico, campanhas amplas de alcance no Meta, influenciadores grandes demais para o nicho, ou até mídia tradicional quando o produto é digital-first. São investimentos que brilham pela visibilidade, mas nem sempre pelo resultado, e nos dados, esse padrão se repete. Aqui a recomendação é mitigar, testar e reavaliar, evitando desperdiçar capital em canais que já provaram ter eficiência inferior.
+
+Por fim, transformar dados em lucro contínuo exige estratégia, e isso significa operar o marketing como um portfólio vivo. Ajustes mensais com base no ROI, aumento gradual do orçamento nos canais que superam a meta e cortes inteligentes nos que não entregam; ações de pós-venda para elevar o LTV; testes A/B constantes para ampliar a escala sem perder eficiência; criativos mais orientados à performance para reduzir CAC; expansão por lookalike audiences a partir dos clientes de maior valor; e acompanhamento mensal por coortes para detectar rapidamente quando um canal começa a perder força.
+
+A empresa Y.Afisha tem um enorme potencial de crescimento sustentado. Com a realocação adequada, ou seja, menos gasto onde dói e mais investimento onde rende, a empresa pode maximizar o retorno do marketing, reduzir risco operacional e fortalecer o ciclo de aquisição de clientes.
+
+Em resumo, o caminho para maximizar a lucratividade não é gastar mais, e sim gastar melhor, ampliando os canais mencionados acima que comprovadamente geram valor e ajustando aqueles que não acompanham a performance esperada. Essa é a base de uma operação de marketing mais inteligente, sustentável e competitiva.
+
+
+
