@@ -143,8 +143,9 @@ Este projeto demonstra:
 Este projeto evidencia uma abordagem de **Data Analytics orientada a negócio**, onde os dados são utilizados não apenas para análise, mas como base para 
 **decisões estratégicas de marketing e crescimento sustentável**.
 
+---
 
-## Conclusão e Recomendação Estratégica de Investimento em Marketing (
+## Conclusão e Recomendação Estratégica de Investimento em Marketing 
 Após analisar profundamente as métricas de CLV (Customer Lifetime Value), CAC (Customer Acquisition Cost) e ROI (Return on Investment) das diferentes origens de tráfego, fica claro que a Y.Afisha possui um canal de aquisição altamente lucrativo, mas ainda longe de operar no seu potencial máximo devido à distribuição ineficiente do orçamento de marketing. Em outras palavras: os melhores canais têm espaço para escalar e continuar entregando movimento financeiro saudável, enquanto os mais caros drenam orçamento e precisam ser reavaliados.
 
 A partir dos resultados, proponho uma estratégia direta e sustentável. Minhas recomendações são redirecionar parte do investimento para os canais mais eficientes e escalar aquilo que já demonstra, de forma consistente, maior retorno por dinheiro investido.
